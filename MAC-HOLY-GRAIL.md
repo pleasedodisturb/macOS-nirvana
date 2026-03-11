@@ -55,7 +55,7 @@
 
 | Category | Pick | Cost | Why it wins | Alternatives |
 |----------|------|------|-------------|-------------|
-| **Browser** | **[Firefox](https://www.mozilla.org/firefox/)** + **[Safari](https://www.apple.com/safari/)** | Free | Firefox for dev (privacy, containers, DevTools). Safari for personal (battery, Apple integration). | [Zen Browser](https://zen-browser.app/) (Firefox fork, Arc-like UX) |
+| **Browser** | **[Brave](https://brave.com/)** or **[Vivaldi](https://vivaldi.com/)** | Free | Brave: Chromium-based, built-in ad/tracker blocking, privacy-first, fast. Vivaldi: EU-based, insane customizability, tab stacking, built-in mail/calendar, respects privacy. Both have full Chrome DevTools. | [Firefox](https://www.mozilla.org/firefox/) (OSS, containers), [Safari](https://www.apple.com/safari/) (battery life), [Zen](https://zen-browser.app/) (Arc-like UX) |
 | **Email** | **[Apple Mail](https://support.apple.com/mail)** | Free | Zero setup, fast, blocks trackers. Don't pay for email if you don't live in it. | [Mimestream](https://mimestream.com/) ($50/yr, native Gmail), [Thunderbird](https://www.thunderbird.net/) (free, PGP) |
 | **Calendar** | **[Fantastical](https://flexibits.com/fantastical)** | Free tier / $5/mo | Natural language ("lunch Tuesday noon"), time zones, Zoom links. nikiv's pick too. | [BusyCal](https://www.busymac.com/busycal/) ($50 once, no subscription), [Notion Calendar](https://www.notion.so/product/calendar) (free) |
 | **Notes** | **[Obsidian](https://obsidian.md/)** | Free | Local markdown you own forever. 1500+ plugins. Graph view. Vim keybindings. | [Logseq](https://logseq.com/) (free/OSS, block-based), [Reflect](https://reflect.app/) (nikiv's pick, paid) |
