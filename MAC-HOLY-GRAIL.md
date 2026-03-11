@@ -78,7 +78,8 @@
 | **Image Editing** | **[Affinity Photo 2](https://affinity.serif.com/photo/)** | Free (personal) | Photoshop-class, now free for individuals. Layers, masks, RAW, batch. | [Pixelmator Pro](https://www.pixelmator.com/pro/) ($50, ML-powered, Mac-native) |
 | **Torrents** | **[qBittorrent](https://www.qbittorrent.org/)** | Free/OSS | Built-in search, IP filtering, VPN kill-switch, RSS feeds. | [Transmission](https://transmissionbt.com/) (free, simpler) |
 | **RSS** | **[NetNewsWire](https://netnewswire.com/)** | Free/OSS | Native Swift, syncs across Apple devices. Perfect at $0. | [Reeder](https://reederapp.com/) ($10, prettier typography) |
-| **Transcription** | **[Aiko](https://sindresorhus.com/aiko)** | Free | On-device Whisper transcription. No cloud, no subscription. By sindresorhus. | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (free tier), [buzz](https://github.com/chidiwilliams/buzz) (free/OSS) |
+| **Dictation** | **[Superwhisper](https://superwhisper.com/)** | Free / $8/mo | Voice-to-text anywhere on your Mac — the dictation interface you'll actually use. Local Whisper models, works in any app, natural speech. Life-changing for long-form input. | [Aiko](https://sindresorhus.com/aiko) (free, file transcription), [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) (free tier) |
+| **Screen Memory** | **[Screenpi.pe](https://screenpi.pe/)** | Free/OSS | Rewind.ai done right — local, private, open-source. Records your screen 24/7, search anything you've seen. All on-device, nothing leaves your Mac. Mesmerizing and life-changing. | [Rewind](https://www.rewind.ai/) (paid, cloud concerns) |
 
 ---
 
