@@ -59,7 +59,7 @@
 | **Email** | **[Apple Mail](https://support.apple.com/mail)** | Free | Zero setup, fast, blocks trackers. Don't pay for email if you don't live in it. | [Mimestream](https://mimestream.com/) ($50/yr, native Gmail), [Thunderbird](https://www.thunderbird.net/) (free, PGP) |
 | **Calendar** | **[Fantastical](https://flexibits.com/fantastical)** | Free tier / $5/mo | Natural language ("lunch Tuesday noon"), time zones, Zoom links. nikiv's pick too. | [BusyCal](https://www.busymac.com/busycal/) ($50 once, no subscription), [Notion Calendar](https://www.notion.so/product/calendar) (free) |
 | **Notes** | **[Obsidian](https://obsidian.md/)** | Free | Local markdown you own forever. 1500+ plugins. Graph view. Vim keybindings. | [Logseq](https://logseq.com/) (free/OSS, block-based), [Reflect](https://reflect.app/) (nikiv's pick, paid) |
-| **Tasks** | **[Things 3](https://culturedcode.com/things/)** | $50 once | Most beautiful task manager on Apple. Keyboard-driven, zero subscription. nikiv uses it. | [Todoist](https://todoist.com/) (free tier, cross-platform), [TickTick](https://ticktick.com/) (free, built-in Pomodoro) |
+| **Tasks** | **[TickTick](https://ticktick.com/)** | Free / $36/yr | Does everything — tasks, habits, Pomodoro timer, calendar view, Eisenhower matrix, Kanban — all in one app. Cross-platform. The Swiss army knife of productivity. | [Things 3](https://culturedcode.com/things/) ($50 once, prettier but Apple-only), [Todoist](https://todoist.com/) (free tier, simpler) |
 | **File Manager** | **[ForkLift](https://binarynights.com/)** | $20 once | Dual-pane, SFTP/S3/GDrive connections, folder sync. | [Marta](https://marta.sh/) (free, keyboard-driven), [Commander One](https://mac.eltima.com/file-manager.html) (free, dual-pane) |
 | **Quick Notes** | **[SideNotes](https://www.apptorium.com/sidenotes)** | $15 once | Notes that slide in from screen edge. Quick capture without context-switching. | [One Thing](https://sindresorhus.com/one-thing) (free, single task in menu bar) |
 | **Text Actions** | **[PopClip](https://www.popclip.app/)** | $15 once | Select text → popup with contextual actions (search, transform, send to apps). "How did I live without this." | — |
@@ -203,14 +203,13 @@ Almost everything listed is free or open-source.
 ### Recommended one-time purchases (~$220):
 | App | Cost |
 |-----|------|
-| [Things 3](https://culturedcode.com/things/) | $50 |
 | [CleanShot X](https://cleanshot.com/) | $29 |
 | [Carbon Copy Cloner](https://bombich.com/) | $40 |
 | [Keyboard Maestro](https://www.keyboardmaestro.com/) | $36 |
 | [Dash](https://kapeli.com/dash) | $30 |
 | [ForkLift](https://binarynights.com/) | $20 |
 | [PopClip](https://www.popclip.app/) | $15 |
-| **Total** | **~$220 once** |
+| **Total** | **~$170 once** |
 
 ### Optional subscriptions:
 | App | Cost | Skip if... |
