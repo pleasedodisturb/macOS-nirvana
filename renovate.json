@@ -1,0 +1,32 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "schedule": ["before 9am on Monday"],
+  "timezone": "Europe/Berlin",
+  "packageRules": [
+    {
+      "description": "Auto-merge patch updates (bug fixes only)",
+      "matchUpdateTypes": ["patch"],
+      "automerge": true,
+      "automergeType": "branch"
+    },
+    {
+      "description": "Group all minor updates into one PR",
+      "matchUpdateTypes": ["minor"],
+      "groupName": "minor updates",
+      "automerge": false
+    },
+    {
+      "description": "Major updates get individual PRs for review",
+      "matchUpdateTypes": ["major"],
+      "automerge": false
+    },
+    {
+      "description": "Auto-merge GitHub Actions patch+minor",
+      "matchManagers": ["github-actions"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "automerge": true,
+      "automergeType": "branch"
+    }
+  ]
+}
